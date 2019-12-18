@@ -8,6 +8,7 @@
     "category": "Human Resources",
     "version": "12.0.0.0.1",
     "depends": ["contacts", "hr_contract", "hr_employee_firstname", "hr_recruitment"],
+    "data": ["views/hr_applicant.xml"],
     "demo": [],
     "installable": True,
 }
